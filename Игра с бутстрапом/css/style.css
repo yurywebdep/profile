@@ -1,0 +1,209 @@
+
+body, html{
+	height: 100%;
+}
+
+
+
+.wrap{
+	background: #000;
+	height: 846px;
+    width: 1479px;
+    margin: 28px auto;
+}
+
+.wrap .level1{
+	height: 100%;
+	background-color: #ccc;
+	border: 3px solid #fff;
+
+}
+
+.level22{
+	height: 100%;
+	border: 3px solid #fff;
+}
+
+.level1 .wrap1{
+	background-color: #A6B727;
+}
+
+.level1 .wrap2{
+	
+}
+
+.level22 .wrap1-level22{
+	background-color: #FEC306;
+	height: 32%;
+	border-bottom: 3px solid #fff;
+	
+}
+
+.level22 .wrap2-level22{
+	background-color: #FEC306;
+	height: 68%;
+	border-top: 3px solid #fff;
+}
+
+.level12{
+	height: 100%;
+	border: 3px solid #fff;
+}
+
+.level12 .wrap1-level12{
+	background-color: #DF5327;
+	height: 58%;
+}
+
+.level12 .wrap2-level12{
+	background-color: #A6B727;
+	height: 42%;
+}
+
+.level122{
+	height: 100%;
+	background-color: inherit;
+	border-top: 3px solid #fff;
+}
+
+.level122 .wrap1-level122{
+	border-right: 3px solid #fff;
+}
+
+
+.level122 .wrap2-level122{
+	border-left: 3px solid #fff;
+}
+
+.level121{
+	height: 100%;
+	border-bottom: 3px solid #fff;
+}
+
+.level121 .wrap1-level121{
+}
+
+.level121 .wrap2-level121{
+}
+
+.level1212{
+	height: 100%;
+	border-left: 3px solid #fff;
+}
+
+
+.level1212 .wrap1-level1212{
+	background-color: inherit;
+	height: 30%;
+	border-bottom: 3px solid #fff;
+}
+
+.level1212 .wrap2-level1212{
+	background-color: inherit;
+	height: 70%;
+	border-top: 3px solid #fff;
+}
+
+
+.level1211{
+	height: 100%;
+	border-right: 3px solid #fff;
+
+}
+
+.level1211 .wrap1-level1211{
+	height: 60%;
+}
+
+.level1211 .wrap2-level1211{
+	background-color: #F69200;
+	height: 40%;
+}
+
+.level12112{
+	height: 100%;
+	border-top: 3px solid #fff;
+}
+
+
+.level12112 .wrap1-level12112{
+	border-right: 3px solid #fff;
+}
+
+.level12112 .wrap2-level12112{
+	border-left: 3px solid #fff;
+}
+
+.level12111{
+	height: 100%;
+	border-bottom: 3px solid #fff;
+}
+
+.level12111 .wrap1-level12111{
+}
+
+.level12111 .wrap2-level12111{
+	background: #418AB3;
+}
+
+.level121112{
+	height: 100%;
+	border-left: 3px solid #fff;
+}
+
+.level121112 .wrap1-level121112{
+	height: 20%;
+	border-bottom: 3px solid #fff;
+}
+
+.level121112 .wrap2-level121112{
+	height: 80%;
+	border-top: 3px solid #fff;
+}
+
+.level121111{
+	height: 100%;
+	border-right: 3px solid #fff;
+	
+}
+
+.level121111 .wrap1-level121111{
+	height: 50%;
+
+}
+
+.level121111 .wrap2-level121111{
+	height: 50%;
+	background: #838383;
+	border-top: 3px solid #fff;
+}
+
+.level1211111{
+	height: 100%;
+	border-bottom: 3px solid #fff;
+}
+
+.level1211111 .wrap1-level1211111{
+}
+
+.level1211111 .wrap2-level1211111{
+	background: #FEC306;
+	border-left: 3px solid #fff;
+}
+
+.level12111111{
+	height: 100%;
+	border-right: 3px solid #fff;
+}
+
+.level12111111 .wrap1-level12111111{
+	background: #A6B727;
+	height: 40%;
+	border-bottom: 3px solid #fff;
+}
+
+.level12111111 .wrap2-level12111111{
+	background: #838383;
+	height: 60%;
+	border-top: 3px solid #fff;
+}
